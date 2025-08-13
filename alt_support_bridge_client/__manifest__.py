@@ -22,8 +22,7 @@
         'views/res_config_settings_views.xml',
         'views/alt_support_config_views.xml',
         'menus/alt_support_menu.xml',
-        # 'data/personal_channel.xml',
-        # 'data/shared_channel.xml',
+
         'data/alt_support_config.xml',
     ],
     'installable': True,
