@@ -1,1 +1,1 @@
-Initial staging files
+Initial staging files.
