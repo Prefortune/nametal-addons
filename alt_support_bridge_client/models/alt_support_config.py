@@ -5,7 +5,7 @@ class AltSupportConfig(models.Model):
     _name = 'alt.support.config'
     _description = 'Alt Support Configuration'
 
-    server_url = fields.Char(string="Support Server URL 101")
+    server_url = fields.Char(string="Support Server URL 102")
     api_token = fields.Char(string="API Token")
     server_token = fields.Char(string="Server Token", help="Token used by server to authenticate with this client")
 
