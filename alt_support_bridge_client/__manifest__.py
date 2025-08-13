@@ -1,5 +1,5 @@
 {
-    'name': 'Alt Support Bridge Client test',
+    'name': 'Alt Support Bridge Client',
     'version': '1.0',
     'category': 'Discuss',
     'summary': 'Client module for Alt Support Bridge',
