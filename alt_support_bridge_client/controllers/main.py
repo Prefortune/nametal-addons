@@ -13,7 +13,7 @@ class AltSupportController(http.Controller):
 
         kwargs = request.get_json_data()
 
-        """Receive message from server and create/update channel."""
+        """Receive message from server and create/update channel..."""
         try:
             _logger.info(f"=== ALT SUPPORT CLIENT: Received message from server: {kwargs} ===")
             
