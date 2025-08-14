@@ -7,7 +7,7 @@ class AltSupportConfig(models.Model):
 
     server_url = fields.Char(string="Support Server URL Local 101")
     server_url2 = fields.Char(string="Support Server URL 202")
-    server_url3 = fields.Char(string="Support Server URL 3")
+    server_url3 = fields.Char(string="Support Server URL 303")
 
 
     api_token = fields.Char(string="API Token")
