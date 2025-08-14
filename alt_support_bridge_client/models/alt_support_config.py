@@ -5,7 +5,7 @@ class AltSupportConfig(models.Model):
     _name = 'alt.support.config'
     _description = 'Alt Support Configuration'
 
-    server_url = fields.Char(string="Support Server URL Local 101.1")
+    server_url = fields.Char(string="Support Server URL Local 101.11")
     server_url2 = fields.Char(string="Support Server URL 202")
     server_url3 = fields.Char(string="Support Server URL 203")
 
